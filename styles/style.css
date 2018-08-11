@@ -1,0 +1,50 @@
+html {
+		font-family: 'Kirang Haerang',cursive;
+		font-size:10px;
+	}
+
+h1 {
+	font-size:60px;
+	text-align:center;
+	margin:0;
+	padding:20px 0;
+	text-shadow:3px 3px 1px black;
+	color:#3EE4CE;
+}
+
+h2 {
+	font-size:40px;
+	text-align:center;
+	margin:0;
+	color:#3EE4CE;
+}
+
+p,li {
+	font-size:30px;
+	line-height:2;
+	letter-spacing:1px;
+	text-align:center;
+	color:#3EE4CE;;
+}
+
+html {
+	background-color : #3EE4CE;
+}
+
+body {
+	width : 600px;
+	margin:0 auto;
+	background-color :#F7F7F7;
+	padding: 0 20px 20px 20px;
+	border:5px solid black;
+}
+
+img {
+	width:600px;
+	display:block;
+	margin:0 auto;
+}
+
+
+
+
